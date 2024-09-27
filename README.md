@@ -24,7 +24,7 @@ The system consists of the following key components:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-repo/CARTOS.git
+    git clone https://github.com/rtenlab/CARTOS.git
     ```
 
 2. Ensure you have the necessary development environment set up, including:
@@ -54,5 +54,3 @@ The system consists of the following key components:
 2. **Running the System**: Once the tasks are defined, compile and run the system on your device. CARTOS will handle energy monitoring, checkpointing, and scheduling based on the available energy.
 
 3. **Energy Prediction**: CARTOS uses an internal energy prediction model to adapt the scheduling strategy based on real-time energy availability.
-
-
